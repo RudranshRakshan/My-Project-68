@@ -1,0 +1,134 @@
+body {
+    text-align: center;
+    background-color: fuchsia;
+}
+
+#home {
+    background: linear-gradient( red 14%, orange 28%, yellow 42%, green 56%, blue 70%, indigo 84%, violet 108%);
+}
+
+img {
+    border-radius: 45%;
+    margin-top: 10px;
+}
+
+div {
+    background-color: black;
+    height: 6px;
+    width: 200px;
+    margin: 8px auto;
+}
+
+p {
+    font-size: 35px;
+    color: black;
+    cursor: default;
+    font-family: cursive;
+
+}
+
+h1 {
+    font-size: 45px;
+    cursor: default;
+}
+
+h2 {
+    font-size: 35px;
+    cursor: default;
+}
+
+.colourfull{
+    background-color: black;
+}
+
+#videos {
+    background: linear-gradient(orange 2%, yellow 100%);
+}
+
+#favoriteSongs {
+    background: linear-gradient(90deg,lightgreen 33%, red 66%, blue 99%);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#image {
+    transition: transform .2s;
+    width: 401px;
+    border-radius: 1px;
+}
+
+#image:hover {
+    transform: scale(0.9);
+}
+
+#or {
+    font-size: 40px;
+    font-weight: 500;
+    font-family: none;
+}
+
+.para {
+    color: cyan;
+}
+
+#hobbies {
+    background: linear-gradient(45deg, yellow 20%, orange 40%, green 60%, blue 80%);
+}
+#writings a {
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: blue !important;
+}
+
+#contact {
+    background-color: cyan;
+    height: 1000px;
+}
+
+.contact1 a {
+    color: crimson;
+    text-shadow: none;
+}
+
+.contact1 h3 {
+    padding-top: 36px;
+    margin-right: 609px;
+    padding-left: 400px;
+}
+
+.contact1 {
+    display: inline;
+}
+
+i {
+    float: left;
+    margin-left: 85px;
+    padding-top: 43px;
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+}
+
+.headText{
+    font-size:18px;
+    margin-left:38px;
+    margin-right:38px;
+}
+.links {
+    font-family: fantasy;
+    font-size: 20px;
+    background-color: #000;
+}
+
+.links:hover {
+    font-size: 23px;
+    text-decoration: underline;
+    background-color: aqua;
+    font-family: 'Urbanist', sans-serif;
+}
+
+
